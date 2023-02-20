@@ -1,5 +1,5 @@
 ### Hi there 👋
-## My python description)
+## My python description
 ```
 class AureoDescription:
     def __init__(self, pseudo, work, langages):
@@ -7,11 +7,11 @@ class AureoDescription:
         self.work = work
         self.langages = langages
 
-aureo = AureoDescription("My pseudo is Aureo","I'm a freelance devloper","I'm know code actually in : Python, Html, Css")
+aureo = AureoDescription("My pseudo is Aureo","I'm a freelance developer","I know code actually in : Python, Html, Css")
 print(aureo.pseudo,"\n",aureo.work,"\n",aureo.langages)
 ````
 Outpout: 
 ```
 My pseudo is Aureo 
-I'm a freelance devloper 
-I'm know code actually in : Python, Html, Css```
+I'm a freelance developer 
+I know code actually in : Python, Html, Css```
