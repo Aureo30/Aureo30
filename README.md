@@ -10,3 +10,7 @@ class AureoDescription:
 aureo = AureoDescription("My pseudo is Aureo","I'm a freelance devloper","I'm know code actually in : Python, Html, Css")
 print(aureo.pseudo,"\n",aureo.work,"\n",aureo.langages)
 ````
+Outpout: 
+```My pseudo is Aureo 
+ I'm a freelance devloper 
+ I'm know code actually in : Python, Html, Css```
